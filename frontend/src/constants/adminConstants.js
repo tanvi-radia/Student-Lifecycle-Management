@@ -1,0 +1,11 @@
+export const ADM_LIST_REQUEST = "ADM_LIST_REQUEST";
+export const ADM_LIST_SUCCESS = "ADM_LIST_SUCCESS";
+export const ADM_LIST_FAIL = "ADM_LIST_FAIL";
+
+export const ADM_EVAL_REQUEST = "ADM_EVAL_REQUEST";
+export const ADM_EVAL_SUCCESS = "ADM_EVAL_SUCCESS";
+export const ADM_EVAL_FAIL = "ADM_EVAL_FAIL";
+
+export const STU_LIST_REQUEST = "STU_LIST_REQUEST";
+export const STU_LIST_SUCCESS = "STU_LIST_SUCCESS";
+export const STU_LIST_FAIL = "STU_LIST_FAIL";
