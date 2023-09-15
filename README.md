@@ -10,7 +10,7 @@ The recruiters have to search all the different places to get a verified list of
 
 ## Setup
 
-Add your mongoDB URI in config.env file
+Add your mongoDB URI in db.js file
 
 ```
 # Install dependencies
